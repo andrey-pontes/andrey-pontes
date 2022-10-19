@@ -15,6 +15,7 @@
 </div>
  
  <br>
+ <hr>
  
   ### Entre em contato pelas redes abaixo!
  
