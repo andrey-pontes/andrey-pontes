@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2a3609,100:91b302&height=210&section=header&text=Andrey%20Pontes&fontSize=30&fontColor=D6002F&animation=fadeIn&fontAlignY=30&desc=Front%20End%20Developer&descAlignY=50">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2a3609,100:91b302&height=210&section=header&text=Andrey%20Pontes&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Front%20End%20Developer&descAlignY=50">
 
  <div>
    <a href="https://github.com/andrey-pontes">
