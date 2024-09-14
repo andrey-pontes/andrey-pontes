@@ -8,9 +8,9 @@
 <p>
   Hi, I'm Andrey! An aspiring programmer living in Brazil.
 
-  - 🌱 I’m currently studying Web development and Physical Engineering at Federal University of Western Pará.
+  - 🌱 Currently, I am a CNPq scholarship recipient working with data science at the [Applied Computing Laboratory(http://laca-ufopa.com.br/)] of the Federal University of Western Pará.
 
-  - 🔭 I am constantly looking for learning to secure my first opportunity as a programmer.
+  - 🔭 I am constantly looking for learning in order to improve my knowledge.
 </p>
 
 <!-- Dropdown -->
