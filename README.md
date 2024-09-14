@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi, I'm Andrey! An aspiring programmer living in Brazil.
+  Hi, I'm Andrey! Data scientist living in Brazil.
 
   - 🌱 Currently, I am a CNPq scholarship recipient working with data science at the [Applied Computing Laboratory](http://laca-ufopa.com.br/) of the Federal University of Western Pará.
 
