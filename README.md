@@ -1,16 +1,21 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello, World! 👋</h1></summary>
+    <summary><h1 style="display: inline-block">👋 Hi, I’m Andrey!</h1></summary>
 </div>
 
 <!-- Presentation -->
 <p>
-  Hi, I'm Andrey! Data scientist living in Brazil.
+🎓 I’m currently pursuing a degree in Computer Science at UFOPA and working with Data Science at the [Applied Computing Laboratory](http://laca-ufopa.com.br/), where I’m a CNPq scholar. 
 
-  - 🌱 Currently, I am a CNPq scholarship recipient working with data science at the [Applied Computing Laboratory](http://laca-ufopa.com.br/) of the Federal University of Western Pará.
+💡 I’m a lifelong learner, always looking to explore new ideas. I’m particularly passionate about data analysis, backend web development, and applying what I learn in my academic journey.
 
-  - 🔭 I am constantly looking for learning in order to improve my knowledge.
+🌟 On my GitHub, you’ll find:
+   - 📊 Data science projects that dive deep into exploring and storytelling through data.
+   - 🖥️ Backend applications, focused on building robust and efficient systems.
+   - 📚 Academic projects showcasing my progress in areas like algorithms and data structures.
+
+💬 I’m always open to exchanging ideas, collaborating on projects, or chatting about technology. Let’s create something amazing together!
 </p>
 
 <!-- Dropdown 
