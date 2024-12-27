@@ -19,7 +19,7 @@
 </p>
 <!-- [Applied Computing Laboratory](http://laca-ufopa.com.br/) -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=andrey_.&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=andrey_.&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)-->
 
 <!-- Links -->
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
