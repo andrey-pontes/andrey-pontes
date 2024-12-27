@@ -6,11 +6,11 @@
 
 <!-- Presentation -->
 <p>
-🎓 I’m currently pursuing a degree in Computer Science at UFOPA and working with Data Science at the [[Applied Computing Laboratory](http://laca-ufopa.com.br/)], where I’m a CNPq scholar. 
+🎓 I’m currently pursuing a degree in Computer Science at UFOPA and working with Data Science at the [Applied Computing Laboratory](http://laca-ufopa.com.br/), where I’m a CNPq scholar. 
 
 💡 I’m a lifelong learner, always looking to explore new ideas. I’m particularly passionate about data analysis, backend web development, and applying what I learn in my academic journey.
 
-🌟 On my GitHub, you’ll find:
+🌟 Here, you’ll find:
    - 📊 Data science projects that dive deep into exploring and storytelling through data.
    - 🖥️ Backend applications, focused on building robust and efficient systems.
    - 📚 Academic projects showcasing my progress in areas like algorithms and data structures.
