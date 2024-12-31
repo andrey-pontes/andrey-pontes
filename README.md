@@ -15,7 +15,7 @@
    - 🖥️ Backend applications, focused on building robust and efficient systems.
    - 📚 Academic projects showcasing my progress in areas like algorithms and data structures.
 
-💬 I’m always open to exchanging ideas, collaborating on projects, or chatting about technology. Let’s create something amazing together!
+💬 I’m always open to exchanging ideas, collaborating on projects, or chatting about technology. Let’s create something amazing together! 🚀
 </p>
 <!-- [Applied Computing Laboratory](http://laca-ufopa.com.br/) -->
 
