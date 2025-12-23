@@ -1,22 +1,53 @@
 <!--título-->
-<div id="user-content-toc">
+<!-- <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">👋 Hi, I’m Andrey!</h1></summary>
-</div>
+</div> -->
 
 <!-- Presentation -->
-<p>
-🎓 I’m currently pursuing a degree in Computer Science at UFOPA and working with Data Science at the Applied Computing Laboratory, where I’m a CNPq scholar. 
+<!-- <p> -->
+## Hi, I’m Andrey 🙋‍♂️
 
-💡 I’m a lifelong learner, always looking to explore new ideas. I’m particularly passionate about data analysis, backend web development, and applying what I learn in my academic journey.
+**Applied Data Science, LLMs & Software Engineering.**
 
-🌟 Here, you’ll find:
-   - 📊 Data science projects that dive deep into exploring and storytelling through data.
-   - 🖥️ Backend applications, focused on building robust and efficient systems.
-   - 📚 Academic projects showcasing my progress in areas like algorithms and data structures.
+I’m a **Bachelor in Science and Technology** and currently pursuing a **Computer Science degree at UFOPA**.  
+I work with **Data Science at the Applied Computing Laboratory**, where I’m also a **CNPq scholar**.
 
-💬 I’m always open to exchanging ideas, collaborating on projects, or chatting about technology. Let’s create something amazing together!
-</p>
+I usually work on problems that start in research but need to survive outside the notebook.
+
+> Data Science, LLMs & things that shouldn’t work (but do).
+
+
+## What I work with
+
+- Applied Data Science and Machine Learning  
+- LLMs, NLP and data-driven systems  
+- Software engineering to support data products  
+- Academic research with practical constraints  
+- Dealing with messy data, edge cases and systems under pressure  
+
+
+## What you’ll find here
+
+- Data Science projects focused on analysis, modeling and decision-making  
+- Experiments and applied work involving LLMs  
+- Backend and system-level projects where engineering actually matters  
+- Academic projects related to algorithms, data structures and applied computing  
+
+Some projects are here because they were interesting to explore.
+Others exist because something didn’t work, and I wanted it fixed.
+
+
+## Let’s talk
+
+I’m always open to:
+- collaborating on projects  
+- exchanging ideas  
+- discussing data, systems, research or production challenges  
+
+If you care about **applied work**, clear thinking and solutions that hold up in practice, we’ll probably get along.
+
+<!-- </p> -->
 <!-- [Applied Computing Laboratory](http://laca-ufopa.com.br/) -->
 
 <!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=andrey_.&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)-->
@@ -29,11 +60,11 @@
 
 
 <!-- GithubStats -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andrey-pontes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrey-pontes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrey-pontes&radius=16&theme=gotham&area=true&order=5" height="250" alt="activity-graph graph"  />
-</div>
+</div> -->
 
 <!-- Portfolio -->
 ## Portfolio:
@@ -44,7 +75,7 @@ Coming soon
   <img align="center" src="https://gifdb.com/images/high/pixel-art-super-mario-computer-amwdq1xi8bgz0omx.webp" alt="Imagem">
 </p>
 
-## 🔥 Skills
+## Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Technologies</h3>
