@@ -21,6 +21,14 @@ Both sides of that keep me honest.
 
 ---
 
+## Featured projects
+ 
+- **[rag-audit](https://github.com/andrey-pontes/rag-audit)**: CLI + library to audit and benchmark RAG pipelines. Detects hallucinations, measures retrieval quality (Precision@k, Recall@k, MRR) and compares chunking strategies.  
+  [![PyPI](https://img.shields.io/pypi/v/rag-audit?color=059669&label=PyPI&logo=pypi&logoColor=white)](https://pypi.org/project/rag-audit/)
+  [![Docs](https://img.shields.io/badge/docs-andrey--pontes.github.io%2Frag--audit-0077B5?logo=readthedocs&logoColor=white)](https://andrey-pontes.github.io/rag-audit/)
+
+---
+
 ## Publications
 
 - **AN ANALYSIS OF BRAZILIAN JOURNALISTIC COVERAGE OF COMPLAINTS PLATFORMS**  
