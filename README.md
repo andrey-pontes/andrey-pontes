@@ -1,10 +1,16 @@
 ## Hi, I'm Andrey Pontes
 
-**Data Scientist & Applied Computing · Santarém, Pará — Brazil**
+**Data Analyst & Data Engineer · Santarém, Pará — Brazil**
 
 I work on problems that start in research but need to survive outside the notebook.
 
-At [LACA / Grep.Comp](https://laca-ufopa.com.br/) (UFOPA), I research NLP, LLMs and text mining, the kind of work that ends up published but stays grounded in practical questions. At Arati Distribuidora, a Coca-Cola distributor in the Amazon region, I build data pipelines, maintain KPI monitoring systems and operational dashboards, handle data engineering tasks, and have room to experiment with new approaches and push improvements to internal processes when something clearly needs fixing.
+At [LACA / Grep.Comp](https://laca-ufopa.com.br/) (UFOPA), I research NLP, 
+LLMs and text mining, the kind of work that ends up published but stays 
+grounded in practical questions. At Arati Distribuidora, a Coca-Cola 
+distributor in the Amazon region, I lead the business intelligence and 
+decision-support function: building data pipelines, designing KPI dashboards 
+for commercial and financial areas, communicating results to directors and 
+managers, and deploying LLM-based agents to automate internal workflows.
 
 Both sides of that keep me honest.
 
@@ -16,7 +22,6 @@ Both sides of that keep me honest.
 - Data pipelines and engineering with Python (pandas, polars, FastAPI)
 - Structured LLM outputs with LangChain, Pydantic and instructor
 - Operational analytics, KPI monitoring and dashboards (Power BI, DAX)
-- Graph databases and knowledge representation
 - SQL, data modeling and ETL processes
 
 ---
